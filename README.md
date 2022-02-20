@@ -1,14 +1,9 @@
 ### Project description/outline: 
-* Looking at the varying housing prices within US
+* Looking at the varying apartment prices within CA
 
 ### Research questions to questions:
-* Does state have an effect on rooms – might be cheaper to build more rooms in some states
-* Housing prices by state
-* Average house size (square feet) by state
-* Average house size by cost
-* Housing prices by square feet
-* Housing prices by pet
-* Prices by type (house, apartment, condo, etc.)
+* Are apartment prices within state of CA affected by square feet?
+* What are apartment prices by region?
 
 ### Datasets to be used:
 https://www.kaggle.com/austinreese/usa-housing-listings 
