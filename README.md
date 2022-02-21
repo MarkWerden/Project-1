@@ -2,7 +2,7 @@
 * Looking at the varying apartment prices within CA
 
 ### Research questions to questions:
-* Are apartment prices within state of CA affected by square feet?
+* Are apartment prices within the state of CA affected by square feet?
 * What are apartment prices by region?
 
 ### Datasets to be used:
@@ -14,7 +14,7 @@ https://www.kaggle.com/austinreese/usa-housing-listings
 * Open Jupyter Notebook
 * Use Pandas to read, clean, and format dataset
 * Describe data/data exploration 
-* Find correlation - which fields have stronger relation (e.g, housing price and state)
+* Find correlation - which fields have stronger relation (e.g, apartment price and region)
 * Use Matplotlib and Pandas for visualization
 * Use linear regression for prediction
 * Summarize findings
