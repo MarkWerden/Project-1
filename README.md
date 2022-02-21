@@ -1,5 +1,5 @@
 ### Project description/outline: 
-* Looking at the varying apartment prices within CA
+* Analyze California apartment market data
 
 ### Research questions to questions:
 * Are apartment prices within the state of CA affected by square feet?
