@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 config.py # (For keeping the api keys private)
+
+#ignore housing csv
+housing_data.csv

@@ -19,3 +19,4 @@ https://www.kaggle.com/austinreese/usa-housing-listings
 * Use linear regression for prediction
 * Summarize findings
 * Present 
+
