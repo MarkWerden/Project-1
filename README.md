@@ -55,7 +55,7 @@ We read the USA housing data, using Pandas, onto a Jupyter Notebook. From there,
 * Each of these counties contained a sample size of over 1,000 data entries 
 * Each county contained data entries between 4.9% to 9.8% of the new, cleaned data frame’s cumulative total with Modesto as the lowest and Stockton, Ventura, Orange, and Inland Empire as the highest
 
-![Pie](Visualizations/Pie/Region_Pie.png)
+![Pie](Visualizations/Pie/Region_pie.png)
 <br></br>
 
 ### Price Per Square Feet
